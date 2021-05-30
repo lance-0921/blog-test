@@ -14,13 +14,18 @@
 2. 迪丽热巴
 
 
-## 我会写HTML CSS代码
+## 我会写HTML CSS Javascript代码
+你看，这是单行代码
+
+` console.log('hello')`
+
+这是多行的CSS的代码
 ```
-你看，这是CSS的代码
 body{
    color:red;
 }
 ```
+
 ## 每日任务
 
 * 每日起床三省自身
